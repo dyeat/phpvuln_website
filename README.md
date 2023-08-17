@@ -1,5 +1,5 @@
 # phpvuln_website
-一個開發者疏忽的網站漏洞靶機
+一個開發者疏忽的漏洞靶機
 
 
 ## Requirements
