@@ -16,7 +16,7 @@
 
 ## Set DB Config 
 
-###  setting db_conn.php
+###  1. 設定資料庫連線 db_conn.php
 
 ``` php
 $host = '127.0.0.1';   
@@ -24,6 +24,7 @@ $dbname = 'blog';
 $username = '';	
 $password = '';			
 ```
+###  2. 匯入 blog.sql 資料
 
 ---
 
