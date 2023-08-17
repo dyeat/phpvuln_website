@@ -1,0 +1,7 @@
+User-agent : *
+Disallow : /admin/
+Disallow : /login/
+Disallow : /adminloginpage/
+Disallow : /wp-admin/
+
+
