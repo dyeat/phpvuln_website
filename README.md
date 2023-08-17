@@ -11,8 +11,7 @@
 
 
 ## Sample
-
-![image](https://github.com/dyeat/phpvuln_website/assets/7974325/2270806f-2f03-43b1-96a7-1428e847be5d)
+![image](https://github.com/dyeat/phpvuln_website/assets/7974325/f829ed97-3814-490b-9e1a-aab3f8736a28)
 
 ## Set DB Config 
 
